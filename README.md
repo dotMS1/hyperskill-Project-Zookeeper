@@ -1,5 +1,9 @@
 # hyperskill-Project-Zookeeper
-These is my first project from Hyperskill (JB Academy) 
+The original project was made by Hyperskill and JetBrains. 
+
+--------------
+
+These is my first project finished on Hyperskill platform.  
 
 Task 1.4 - Rush into print. 
 
